@@ -32,3 +32,15 @@ This repository serves as an essential guide to the field of Natural Language Pr
 
 ### 2020
 * **Reformer: The Efficient Transformer** [\[PDF\]](https://arxiv.org/abs/2001.04451)
+
+
+## Recent papers
+
+### 2021
+* **Learning Transferable Visual Models From Natural Language Supervision**  [\[PDF\]](https://arxiv.org/pdf/2103.00020.pdf)
+* **Improved Denoising Diffusion Probabilistic Models** [\[PDF\]](https://arxiv.org/pdf/2102.09672.pdf)
+* **Diffusion Models Beat GANs on Image Synthesis** [\[PDF\]](https://arxiv.org/pdf/2105.05233.pdf)
+* **Image Super-Resolution via Iterative Refinement** [\[PDF\]](https://arxiv.org/pdf/2104.07636.pdf)
+
+
+
