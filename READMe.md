@@ -32,7 +32,7 @@ This repository serves as an essential guide to the field of Natural Language Pr
 
 ### 2020
 * **Reformer: The Efficient Transformer** [\[PDF\]](https://arxiv.org/abs/2001.04451)
-
+* **Language Models are Few-Shot Learners (GPT3)** [\[PDF\]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 ## Recent papers
 
@@ -42,5 +42,12 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **Diffusion Models Beat GANs on Image Synthesis** [\[PDF\]](https://arxiv.org/pdf/2105.05233.pdf)
 * **Image Super-Resolution via Iterative Refinement** [\[PDF\]](https://arxiv.org/pdf/2104.07636.pdf)
 
+### 2022
+* **LaMDA: Language Models for Dialog Applications** [\[PDF\]](https://arxiv.org/pdf/2201.08239.pdf)
+* **Training language models to follow instructions with human feedback (RLHF)** [\[PDF\]](https://arxiv.org/pdf/2203.02155.pdf)
+* **Training Compute-Optimal Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2203.15556.pdf)
+* **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2201.11903.pdf)
+* **PaLM: Scaling Language Modeling with Pathways** [\[PDF\]](https://arxiv.org/pdf/2204.02311.pdf)
+* **Competition-Level Code Generation with AlphaCode** [\[PDF\]](https://arxiv.org/pdf/2203.07814.pdf)
 
 
