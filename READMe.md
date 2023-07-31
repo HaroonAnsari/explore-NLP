@@ -3,36 +3,21 @@ This repository serves as an essential guide to the field of Natural Language Pr
 
 ## Foundational Papers
 
-### 2013
-* **Distributed Representations of Words and Phrases and their Compositionality** [\[PDF\]](https://arxiv.org/pdf/1310.4546.pdf)
-* **Efficient Estimation of Word Representations in Vector Space** [\[PDF\]](https://arxiv.org/pdf/1301.3781.pdf)
-
-### 2014
-* **GloVe: Global Vectors for Word Representation** [\[PDF\]](https://aclanthology.org/D14-1162.pdf)
-
-### 2015
-* **Convolutional Neural Networks for Sentence Classification** [\[PDF\]](https://arxiv.org/pdf/1408.5882.pdf)
-
-### 2016
-* **Enriching Word Vectors with Subword Information** [\[PDF\]](https://arxiv.org/abs/1607.04606)
-* **Globally Normalized Transition-Based Neural Networks** [\[PDF\]](https://arxiv.org/pdf/1603.06042.pdf)
-
-### 2017
-* **Attention is all you need** [\[PDF\]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-
-### 2018
-* **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** [\[PDF\]](https://arxiv.org/pdf/1810.04805.pdf)
-* **Deep Contextualized Word Representation (Elmo)** [\[PDF\]](https://arxiv.org/abs/1802.05365)
-* **Improving Language Understanding by Generative Pre-Training(GPT)** [\[PDF\]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-* **Universal Language Model Fine-tuning for Text Classification (ULMFit)** [\[PDF\]](https://arxiv.org/abs/1801.06146)
-
-### 2019
-* **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context** [\[PDF\]](https://arxiv.org/pdf/1901.02860v3.pdf)
-* **Generating Long Sequences with Sparse Transformers** [\[PDF\]](https://arxiv.org/abs/1904.10509)
-
-### 2020
-* **Reformer: The Efficient Transformer** [\[PDF\]](https://arxiv.org/abs/2001.04451)
-* **Language Models are Few-Shot Learners (GPT3)** [\[PDF\]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+* **[2013] Distributed Representations of Words and Phrases and their Compositionality** [\[PDF\]](https://arxiv.org/pdf/1310.4546.pdf)
+* **[2013] Efficient Estimation of Word Representations in Vector Space** [\[PDF\]](https://arxiv.org/pdf/1301.3781.pdf)
+* **[2014] GloVe: Global Vectors for Word Representation** [\[PDF\]](https://aclanthology.org/D14-1162.pdf)
+* **[2015] Convolutional Neural Networks for Sentence Classification** [\[PDF\]](https://arxiv.org/pdf/1408.5882.pdf)
+* **[2016] Enriching Word Vectors with Subword Information** [\[PDF\]](https://arxiv.org/abs/1607.04606)
+* **[2016] Globally Normalized Transition-Based Neural Networks** [\[PDF\]](https://arxiv.org/pdf/1603.06042.pdf)
+* **[2017] Attention is all you need** [\[PDF\]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+* **[2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** [\[PDF\]](https://arxiv.org/pdf/1810.04805.pdf)
+* **[2018] Deep Contextualized Word Representation (Elmo)** [\[PDF\]](https://arxiv.org/abs/1802.05365)
+* **[2018] Improving Language Understanding by Generative Pre-Training(GPT)** [\[PDF\]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+* **[2018] Universal Language Model Fine-tuning for Text Classification (ULMFit)** [\[PDF\]](https://arxiv.org/abs/1801.06146)
+* **[2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context** [\[PDF\]](https://arxiv.org/pdf/1901.02860v3.pdf)
+* **[2019] Generating Long Sequences with Sparse Transformers** [\[PDF\]](https://arxiv.org/abs/1904.10509)
+* **[2020] Reformer: The Efficient Transformer** [\[PDF\]](https://arxiv.org/abs/2001.04451)
+* **[2020] Language Models are Few-Shot Learners (GPT3)** [\[PDF\]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 ## Recent papers
 
@@ -50,4 +35,5 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **PaLM: Scaling Language Modeling with Pathways** [\[PDF\]](https://arxiv.org/pdf/2204.02311.pdf)
 * **Competition-Level Code Generation with AlphaCode** [\[PDF\]](https://arxiv.org/pdf/2203.07814.pdf)
 
-
+### 2023
+* **Scaling Laws for Generative Mixed-Modal Language Models** [\[PDF\]](https://arxiv.org/pdf/2301.03728.pdf)
