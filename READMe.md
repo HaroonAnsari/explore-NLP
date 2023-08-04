@@ -37,3 +37,5 @@ This repository serves as an essential guide to the field of Natural Language Pr
 
 ### 2023
 * **Scaling Laws for Generative Mixed-Modal Language Models** [\[PDF\]](https://arxiv.org/pdf/2301.03728.pdf)
+* **Multimodal Chain-of-Thought Reasoning in Language Models** [\[PDF\]](https://arxiv.org/pdf/2302.00923.pdf)
+* **LLaMA: Open and Efficient Foundation Language Models** [\[PDF\]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
