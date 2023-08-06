@@ -40,5 +40,5 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **Multimodal Chain-of-Thought Reasoning in Language Models** [\[PDF\]](https://arxiv.org/pdf/2302.00923.pdf)
 * **LLaMA: Open and Efficient Foundation Language Models** [\[PDF\]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 * **PaLM-E: An Embodied Multimodal Language Model** [\[PDF\]](https://arxiv.org/pdf/2303.03378.pdf)
-* **GPT-4 Technical Report** [\[PDF\]] (https://arxiv.org/pdf/2303.08774v2.pdf)
-* **LERF: Language Embedded Radiance Fields** [\[PDF\]] (https://arxiv.org/pdf/2303.09553.pdf)
+* **GPT-4 Technical Report** [\[PDF\]](https://arxiv.org/pdf/2303.08774v2.pdf)
+* **LERF: Language Embedded Radiance Fields** [\[PDF\]](https://arxiv.org/pdf/2303.09553.pdf)
