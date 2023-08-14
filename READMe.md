@@ -42,3 +42,6 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **PaLM-E: An Embodied Multimodal Language Model** [\[PDF\]](https://arxiv.org/pdf/2303.03378.pdf)
 * **GPT-4 Technical Report** [\[PDF\]](https://arxiv.org/pdf/2303.08774v2.pdf)
 * **LERF: Language Embedded Radiance Fields** [\[PDF\]](https://arxiv.org/pdf/2303.09553.pdf)
+* **Segment Anything** [\[PDF\]](https://arxiv.org/pdf/2304.02643v1.pdf)
+* **Model Card and Evaluations for Claude Models** [\[PDF\]](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
+* **Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning** [\[PDF\]](https://scontent.fblr20-1.fna.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=v0zw2fL1XmcAX9tgEP6&_nc_ht=scontent.fblr20-1.fna&oh=00_AfAwdMbpn8prT7Qph2WYBcGRrqSz_-pBjDtV6A0hBQMo4g&oe=64DEE1F2)
