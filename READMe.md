@@ -45,3 +45,9 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **Segment Anything** [\[PDF\]](https://arxiv.org/pdf/2304.02643v1.pdf)
 * **Model Card and Evaluations for Claude Models** [\[PDF\]](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
 * **Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning** [\[PDF\]](https://scontent.fblr20-1.fna.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=v0zw2fL1XmcAX9tgEP6&_nc_ht=scontent.fblr20-1.fna&oh=00_AfAwdMbpn8prT7Qph2WYBcGRrqSz_-pBjDtV6A0hBQMo4g&oe=64DEE1F2)
+* **Llama 2: Open Foundation and Fine-Tuned Chat Models** [\[PDF\]](https://arxiv.org/pdf/2307.09288v2.pdf)
+* **FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning** [\[PDF\]](https://arxiv.org/pdf/2307.08691v1.pdf)
+* **Universal and Transferable Adversarial Attacks on Aligned Language Models** [\[PDF\]](https://arxiv.org/pdf/2307.15043.pdf)
+* **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding** [\[PDF\]](https://arxiv.org/pdf/2307.15337.pdf)
+* **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment** [\[PDF\]](https://arxiv.org/pdf/2308.05374.pdf)
+
