@@ -50,4 +50,5 @@ This repository serves as an essential guide to the field of Natural Language Pr
 * **Universal and Transferable Adversarial Attacks on Aligned Language Models** [\[PDF\]](https://arxiv.org/pdf/2307.15043.pdf)
 * **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding** [\[PDF\]](https://arxiv.org/pdf/2307.15337.pdf)
 * **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment** [\[PDF\]](https://arxiv.org/pdf/2308.05374.pdf)
+* **Code Llama: Open Foundation Models for Code** [\[PDF\]](https://scontent.fblr20-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=u6nQ3qJQsu4AX_qa-CM&_nc_ht=scontent.fblr20-1.fna&oh=00_AfDia6S48TrKk2qFK-sUF5sdWKpOBeOfVZEPp3GywDDrqg&oe=64FA89CF)
 
