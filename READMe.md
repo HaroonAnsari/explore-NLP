@@ -1,6 +1,14 @@
 # explore-NLP
 This repository serves as an essential guide to the field of Natural Language Processing (NLP), offering a curated list of both foundational and recent influential papers. It is divided into two main sections: the first contains the seminal papers that have shaped the foundation of NLP, and the second provides a chronological list of key papers that reflect the latest advancements and trends in the field. Whether you're a student, a researcher, or an enthusiast, this collection is designed to keep you up-to-date and deepen your understanding of the ever-evolving landscape of NLP.
 
+## Index
+
+- [Foundational Papers](#foundational-papers)
+- [Recent papers](#recent-papers)
+  - [2021](#2021)
+  - [2022](#2022)
+  - [2023](#2023)
+
 ## Foundational Papers
 
 * **[2013] Distributed Representations of Words and Phrases and their Compositionality** [\[PDF\]](https://arxiv.org/pdf/1310.4546.pdf)
